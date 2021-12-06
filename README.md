@@ -62,6 +62,8 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+[Back To The Top](#the-50-most-popular-linux--terminal-commands)
+
 #### Section 13 - into to options
 
 ✅ Complete
@@ -75,6 +77,52 @@ Tracking my progress through the course.
 ✅ Complete
 
 #### Section 16 - cd
+
+✅ Complete
+
+#### Section 17 - mkdir
+
+✅ Complete
+
+#### Section 18 - touch
+
+✅ Complete
+
+#### Section 19 - rmdir
+
+✅ Complete
+
+#### Section 20 - rm
+
+✅ Complete
+
+#### Section 21 - open
+
+✅ Complete
+
+#### Section 22 - mv
+
+✅ Complete
+
+#### Section 23 - cp
+
+✅ Complete
+
+#### Section 24 - head
+
+✅ Complete
+
+[Back To The Top](#the-50-most-popular-linux--terminal-commands)
+
+#### Section 25 - tail
+
+✅ Complete
+
+#### Section 26 - date
+
+✅ Complete
+
+#### Section 27 - redirecting standard output
 
 ✅ Complete
 
