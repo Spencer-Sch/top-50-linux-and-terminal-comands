@@ -64,7 +64,7 @@ Tracking my progress through the course.
 
 [Back To The Top](#the-50-most-popular-linux--terminal-commands)
 
-#### Section 13 - into to options
+#### Section 13 - intro to options
 
 ✅ Complete
 
