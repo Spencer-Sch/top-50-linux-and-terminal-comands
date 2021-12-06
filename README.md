@@ -78,4 +78,4 @@ Tracking my progress through the course.
 
 ✅ Complete
 
-[Back To The Top](#the-50-most-popular-linux-&-terminal-commands)
+[Back To The Top](#the-50-most-popular-linux--terminal-commands)
