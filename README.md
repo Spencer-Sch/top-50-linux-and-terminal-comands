@@ -163,3 +163,9 @@ Tracking my progress through the course.
 ✅ Complete
 
 [Back To The Top](#the-50-most-popular-linux--terminal-commands)
+
+#### Section 37 - find
+
+✅ Complete
+
+[Back To The Top](#the-50-most-popular-linux--terminal-commands)
