@@ -126,4 +126,40 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 28 - cat
+
+✅ Complete
+
+#### Section 29 - less
+
+✅ Complete
+
+#### Section 30 - echo
+
+✅ Complete
+
+#### Section 31 - wc
+
+✅ Complete
+
+#### Section 32 - piping
+
+✅ Complete
+
+#### Section 33 - sort
+
+✅ Complete
+
+#### Section 34 - uniq
+
+✅ Complete
+
+#### Section 35 - expansions
+
+✅ Complete
+
+#### Section 36 - diff
+
+✅ Complete
+
 [Back To The Top](#the-50-most-popular-linux--terminal-commands)
