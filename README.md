@@ -168,4 +168,40 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 38 - grep
+
+✅ Complete
+
+#### Section 39 - du
+
+✅ Complete
+
+#### Section 40 - df
+
+✅ Complete
+
+#### Section 41 - history
+
+✅ Complete
+
+#### Section 42 - ps
+
+✅ Complete
+
+#### Section 43 - top
+
+✅ Complete
+
+#### Section 44 - kill
+
+✅ Complete
+
+#### Section 45 - killall
+
+✅ Complete
+
+#### Section 46 - jobs, bg, and fg
+
+✅ Complete
+
 [Back To The Top](#the-50-most-popular-linux--terminal-commands)
