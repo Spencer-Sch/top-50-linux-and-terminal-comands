@@ -204,4 +204,30 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 47 - gzip
+
+✅ Complete
+
+#### Section 48 - gunzip
+
+✅ Complete
+
+[Back To The Top](#the-50-most-popular-linux--terminal-commands)
+
+#### Section 49 - tar
+
+✅ Complete
+
+#### Section 50 - nano
+
+✅ Complete
+
+#### Section 51 - alias
+
+✅ Complete
+
+#### Section 52 - xargs
+
+✅ Complete
+
 [Back To The Top](#the-50-most-popular-linux--terminal-commands)
