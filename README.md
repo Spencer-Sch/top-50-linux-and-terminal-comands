@@ -230,4 +230,34 @@ Tracking my progress through the course.
 
 ✅ Complete
 
+#### Section 53 - ln
+
+✅ Complete
+
+#### Section 54 - su
+
+✅ Complete
+
+#### Section 55 - sudo
+
+✅ Complete
+
+#### Section 56 - passwd
+
+✅ Complete
+
+#### Section 57 - chown
+
+✅ Complete
+
+#### Section 58 - Understanding Permissions
+
+✅ Complete
+
+#### Section 59 - chmod
+
+✅ Complete
+
+### COURSE COMPLETE!
+
 [Back To The Top](#the-50-most-popular-linux--terminal-commands)
